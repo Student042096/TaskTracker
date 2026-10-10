@@ -1,1 +1,6 @@
 *.tmp
+notes_local.txt
+temp/
+bin/
+obj/
+*.log
