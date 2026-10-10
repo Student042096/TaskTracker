@@ -4,3 +4,4 @@ temp/
 bin/
 obj/
 *.log
+config/appsetting.Development.json
